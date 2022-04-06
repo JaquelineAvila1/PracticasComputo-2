@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ControladorUsuario;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -21,3 +21,4 @@ Route::get('/pet', function(){
   return view('pet.index');
 });
 
+Route::get('/usuario', 'ControladorUsuario@index');
