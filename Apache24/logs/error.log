@@ -1,0 +1,357 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:22:39.170283 2022] [mpm_winnt:notice] [pid 10608:tid 768] AH00455: Apache/2.4.52 (Win64) configured -- resuming normal operations
+[Tue Mar 01 12:22:39.170283 2022] [mpm_winnt:notice] [pid 10608:tid 768] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 01 12:22:39.170283 2022] [core:notice] [pid 10608:tid 768] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 01 12:22:39.389166 2022] [mpm_winnt:notice] [pid 10608:tid 768] AH00418: Parent: Created child process 4508
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:22:40.185669 2022] [mpm_winnt:notice] [pid 4508:tid 728] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 01 12:26:13.310451 2022] [mpm_winnt:notice] [pid 10608:tid 768] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 12:26:15.330161 2022] [mpm_winnt:notice] [pid 4508:tid 728] AH00364: Child: All worker threads have exited.
+[Tue Mar 01 12:26:15.499101 2022] [mpm_winnt:notice] [pid 10608:tid 768] AH00430: Parent: Child process 4508 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:26:55.860746 2022] [mpm_winnt:notice] [pid 12992:tid 756] AH00455: Apache/2.4.52 (Win64) configured -- resuming normal operations
+[Tue Mar 01 12:26:55.860746 2022] [mpm_winnt:notice] [pid 12992:tid 756] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 01 12:26:55.860746 2022] [core:notice] [pid 12992:tid 756] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 01 12:26:55.954498 2022] [mpm_winnt:notice] [pid 12992:tid 756] AH00418: Parent: Created child process 12284
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:26:56.537347 2022] [mpm_winnt:notice] [pid 12284:tid 716] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 01 12:57:27.037627 2022] [mpm_winnt:notice] [pid 12992:tid 756] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 12:57:29.059108 2022] [mpm_winnt:notice] [pid 12284:tid 716] AH00364: Child: All worker threads have exited.
+[Tue Mar 01 12:57:29.170942 2022] [mpm_winnt:notice] [pid 12992:tid 756] AH00430: Parent: Child process 12284 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:57:32.502559 2022] [mpm_winnt:notice] [pid 2232:tid 760] AH00455: Apache/2.4.52 (Win64) configured -- resuming normal operations
+[Tue Mar 01 12:57:32.507614 2022] [mpm_winnt:notice] [pid 2232:tid 760] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 01 12:57:32.507614 2022] [core:notice] [pid 2232:tid 760] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 01 12:57:32.553347 2022] [mpm_winnt:notice] [pid 2232:tid 760] AH00418: Parent: Created child process 6480
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 12:57:33.121134 2022] [mpm_winnt:notice] [pid 6480:tid 704] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 01 13:18:44.050635 2022] [mpm_winnt:notice] [pid 2232:tid 760] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 13:18:46.078260 2022] [mpm_winnt:notice] [pid 6480:tid 704] AH00364: Child: All worker threads have exited.
+[Tue Mar 01 13:18:46.366265 2022] [mpm_winnt:notice] [pid 2232:tid 760] AH00430: Parent: Child process 6480 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 13:18:50.502128 2022] [mpm_winnt:notice] [pid 11544:tid 780] AH00455: Apache/2.4.52 (Win64) configured -- resuming normal operations
+[Tue Mar 01 13:18:50.504152 2022] [mpm_winnt:notice] [pid 11544:tid 780] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 01 13:18:50.504152 2022] [core:notice] [pid 11544:tid 780] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 01 13:18:51.630654 2022] [mpm_winnt:notice] [pid 11544:tid 780] AH00418: Parent: Created child process 2424
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 01 13:18:52.226224 2022] [mpm_winnt:notice] [pid 2424:tid 612] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 01 14:03:46.050874 2022] [mpm_winnt:notice] [pid 11544:tid 780] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 14:03:48.068252 2022] [mpm_winnt:notice] [pid 2424:tid 612] AH00364: Child: All worker threads have exited.
+[Tue Mar 01 14:03:48.235928 2022] [mpm_winnt:notice] [pid 11544:tid 780] AH00430: Parent: Child process 2424 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Tue Mar 01 14:04:04.705923 2022] [mpm_winnt:notice] [pid 12356:tid 812] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Mar 01 14:04:04.705923 2022] [mpm_winnt:notice] [pid 12356:tid 812] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 01 14:04:04.705923 2022] [core:notice] [pid 12356:tid 812] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 01 14:04:04.852352 2022] [mpm_winnt:notice] [pid 12356:tid 812] AH00418: Parent: Created child process 16000
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Tue Mar 01 14:04:05.511571 2022] [mpm_winnt:notice] [pid 16000:tid 760] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 01 14:09:19.893456 2022] [mpm_winnt:notice] [pid 12356:tid 812] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 14:09:21.933391 2022] [mpm_winnt:notice] [pid 16000:tid 760] AH00364: Child: All worker threads have exited.
+[Tue Mar 01 14:09:22.176317 2022] [mpm_winnt:notice] [pid 12356:tid 812] AH00430: Parent: Child process 16000 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 02 14:55:00.089518 2022] [mpm_winnt:notice] [pid 12384:tid 820] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 02 14:55:00.089518 2022] [mpm_winnt:notice] [pid 12384:tid 820] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 02 14:55:00.089518 2022] [core:notice] [pid 12384:tid 820] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 02 14:55:00.412343 2022] [mpm_winnt:notice] [pid 12384:tid 820] AH00418: Parent: Created child process 9176
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 02 14:55:01.343735 2022] [mpm_winnt:notice] [pid 9176:tid 816] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 02 15:02:51.771891 2022] [php:warn] [pid 9176:tid 1284] [client ::1:61382] PHP Warning:  Undefined variable $string in C:\\server\\Apache24\\htdocs\\index.php on line 12
+[Wed Mar 02 15:24:47.064009 2022] [php:error] [pid 9176:tid 1284] [client ::1:61643] PHP Parse error:  Unmatched '}' in C:\\server\\Apache24\\htdocs\\index.php on line 23
+[Wed Mar 02 15:25:34.006568 2022] [php:error] [pid 9176:tid 1284] [client ::1:61662] PHP Parse error:  Unmatched '}' in C:\\server\\Apache24\\htdocs\\index.php on line 23
+[Wed Mar 02 15:26:21.327584 2022] [php:error] [pid 9176:tid 1284] [client ::1:61692] PHP Parse error:  Unmatched '}' in C:\\server\\Apache24\\htdocs\\index.php on line 23
+[Wed Mar 02 15:27:00.952373 2022] [php:error] [pid 9176:tid 1284] [client ::1:61701] PHP Parse error:  Unmatched '}' in C:\\server\\Apache24\\htdocs\\index.php on line 23
+[Wed Mar 02 15:27:22.852882 2022] [php:warn] [pid 9176:tid 1284] [client ::1:61715] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:27:22.888880 2022] [php:error] [pid 9176:tid 1284] [client ::1:61715] PHP Fatal error:  Uncaught Error: Undefined constant "TITLE" in C:\\server\\Apache24\\htdocs\\index.php:36\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 36
+[Wed Mar 02 15:28:10.767807 2022] [php:warn] [pid 9176:tid 1284] [client ::1:61721] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:28:10.767807 2022] [php:error] [pid 9176:tid 1284] [client ::1:61721] PHP Fatal error:  Uncaught Error: Undefined constant "TITLE" in C:\\server\\Apache24\\htdocs\\index.php:33\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 33
+[Wed Mar 02 15:28:27.694653 2022] [php:warn] [pid 9176:tid 1284] [client ::1:61733] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:28:27.694653 2022] [php:error] [pid 9176:tid 1284] [client ::1:61733] PHP Fatal error:  Uncaught Error: Undefined constant "TITLE" in C:\\server\\Apache24\\htdocs\\index.php:33\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 33
+[Wed Mar 02 15:34:14.832256 2022] [php:warn] [pid 9176:tid 1288] [client ::1:61793] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:34:14.832256 2022] [php:error] [pid 9176:tid 1288] [client ::1:61793] PHP Fatal error:  Uncaught Error: Undefined constant "TITLE" in C:\\server\\Apache24\\htdocs\\index.php:33\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 33
+[Wed Mar 02 15:34:48.427863 2022] [php:warn] [pid 9176:tid 1288] [client ::1:61810] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:34:48.427863 2022] [php:error] [pid 9176:tid 1288] [client ::1:61810] PHP Fatal error:  Uncaught Error: Undefined constant "HEADING_TITLE" in C:\\server\\Apache24\\htdocs\\index.php:34\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 34
+[Wed Mar 02 15:35:05.013519 2022] [php:warn] [pid 9176:tid 1288] [client ::1:61815] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 15:35:05.013856 2022] [php:error] [pid 9176:tid 1288] [client ::1:61815] PHP Fatal error:  Uncaught Error: Undefined constant "HEADING_TITLE" in C:\\server\\Apache24\\htdocs\\index.php:34\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 34
+[Wed Mar 02 15:35:14.383145 2022] [php:warn] [pid 9176:tid 1288] [client ::1:61817] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\\server\\Apache24\\htdocs\\es.php on line 6
+[Wed Mar 02 16:17:33.271670 2022] [mpm_winnt:notice] [pid 12384:tid 820] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 02 16:17:35.532417 2022] [mpm_winnt:notice] [pid 9176:tid 816] AH00364: Child: All worker threads have exited.
+[Wed Mar 02 16:17:38.062921 2022] [mpm_winnt:notice] [pid 12384:tid 820] AH00430: Parent: Child process 9176 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 02 19:21:51.124096 2022] [mpm_winnt:notice] [pid 9540:tid 816] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 02 19:21:51.124096 2022] [mpm_winnt:notice] [pid 9540:tid 816] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 02 19:21:51.124096 2022] [core:notice] [pid 9540:tid 816] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 02 19:21:51.829227 2022] [mpm_winnt:notice] [pid 9540:tid 816] AH00418: Parent: Created child process 4128
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 02 19:21:52.728158 2022] [mpm_winnt:notice] [pid 4128:tid 776] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 02 19:25:41.270060 2022] [php:error] [pid 4128:tid 1280] [client ::1:56648] PHP Fatal error:  Uncaught Error: Undefined constant "TITLE" in C:\\server\\Apache24\\htdocs\\index.php:12\nStack trace:\n#0 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\index.php on line 12
+[Wed Mar 02 19:30:17.496221 2022] [php:error] [pid 4128:tid 1280] [client ::1:62452] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\\server\\Apache24\\htdocs\\index.php on line 13
+[Wed Mar 02 19:35:37.248824 2022] [php:error] [pid 4128:tid 1280] [client ::1:55440] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\\server\\Apache24\\htdocs\\index.php on line 13
+[Wed Mar 02 19:35:40.251124 2022] [php:error] [pid 4128:tid 1280] [client ::1:55442] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\\server\\Apache24\\htdocs\\index.php on line 13
+[Wed Mar 02 19:35:41.516465 2022] [php:error] [pid 4128:tid 1280] [client ::1:55442] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\\server\\Apache24\\htdocs\\index.php on line 13
+[Wed Mar 02 20:02:58.860310 2022] [php:error] [pid 4128:tid 1272] [client ::1:50763] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:06:39.731973 2022] [php:error] [pid 4128:tid 1280] [client ::1:54133] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:07:33.983649 2022] [php:error] [pid 4128:tid 1272] [client ::1:63500] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:07:36.727499 2022] [php:error] [pid 4128:tid 1272] [client ::1:63500] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:07:59.221412 2022] [php:error] [pid 4128:tid 1272] [client ::1:62541] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:08:26.864522 2022] [php:error] [pid 4128:tid 1280] [client ::1:65355] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:08:53.344361 2022] [php:error] [pid 4128:tid 1280] [client ::1:52140] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:08:54.911552 2022] [php:error] [pid 4128:tid 1280] [client ::1:52140] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:13:00.877829 2022] [php:error] [pid 4128:tid 1272] [client ::1:55674] script 'C:/server/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Mar 02 20:40:26.186155 2022] [php:warn] [pid 4128:tid 1280] [client ::1:54095] PHP Warning:  include(es.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\nav.php on line 49
+[Wed Mar 02 20:40:26.187163 2022] [php:warn] [pid 4128:tid 1280] [client ::1:54095] PHP Warning:  include(): Failed opening 'es.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\nav.php on line 49
+[Wed Mar 02 20:52:37.937350 2022] [php:error] [pid 4128:tid 1280] [client ::1:51538] PHP Fatal error:  Uncaught Error: Undefined constant "NAME_SITE" in C:\\server\\Apache24\\htdocs\\nav.php:3\nStack trace:\n#0 C:\\server\\Apache24\\htdocs\\index.php(14): include()\n#1 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\nav.php on line 3
+[Wed Mar 02 21:02:23.102319 2022] [php:error] [pid 4128:tid 1280] [client ::1:64246] PHP Fatal error:  Uncaught Error: Undefined constant "PAGINA" in C:\\server\\Apache24\\htdocs\\nav.php:38\nStack trace:\n#0 C:\\server\\Apache24\\htdocs\\index.php(14): include()\n#1 {main}\n  thrown in C:\\server\\Apache24\\htdocs\\nav.php on line 38
+[Wed Mar 02 21:12:46.364613 2022] [mpm_winnt:notice] [pid 9540:tid 816] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 02 21:12:48.583250 2022] [mpm_winnt:notice] [pid 4128:tid 776] AH00364: Child: All worker threads have exited.
+[Wed Mar 02 21:12:50.188320 2022] [mpm_winnt:notice] [pid 9540:tid 816] AH00430: Parent: Child process 4128 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 11:23:43.910419 2022] [mpm_winnt:notice] [pid 11088:tid 828] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Mon Mar 07 11:23:43.910419 2022] [mpm_winnt:notice] [pid 11088:tid 828] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Mar 07 11:23:43.910419 2022] [core:notice] [pid 11088:tid 828] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Mon Mar 07 11:23:44.072284 2022] [mpm_winnt:notice] [pid 11088:tid 828] AH00418: Parent: Created child process 16080
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 11:23:44.698171 2022] [mpm_winnt:notice] [pid 16080:tid 764] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 07 12:03:51.271179 2022] [php:error] [pid 16080:tid 1284] [client ::1:51768] PHP Parse error:  syntax error, unexpected token "if" in C:\\server\\Apache24\\htdocs\\pages\\index.php on line 17, referer: http://localhost/index.php/
+[Mon Mar 07 12:10:29.213220 2022] [php:error] [pid 16080:tid 1280] [client ::1:59598] PHP Parse error:  syntax error, unexpected token "if" in C:\\server\\Apache24\\htdocs\\pages\\index.php on line 17, referer: http://localhost/index.php/
+[Mon Mar 07 12:11:16.937735 2022] [php:error] [pid 16080:tid 1280] [client ::1:62520] PHP Parse error:  syntax error, unexpected token "if" in C:\\server\\Apache24\\htdocs\\pages\\index.php on line 17, referer: http://localhost/index.php/
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant NAME_SITE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 4
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant HOME already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 5
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant PAGE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 6
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 7
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant HEADING_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 8
+[Mon Mar 07 12:14:42.788792 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54880] PHP Warning:  Constant OVERVIEW_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 9
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant NAME_SITE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 4
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant HOME already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 5
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant PAGE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 6
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 7
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant HEADING_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 8
+[Mon Mar 07 12:15:39.962927 2022] [php:warn] [pid 16080:tid 1280] [client ::1:54910] PHP Warning:  Constant OVERVIEW_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 9
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant NAME_SITE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 4, referer: http://localhost/index.php/
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant HOME already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 5, referer: http://localhost/index.php/
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant PAGE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 6, referer: http://localhost/index.php/
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 7, referer: http://localhost/index.php/
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant HEADING_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 8, referer: http://localhost/index.php/
+[Mon Mar 07 12:15:50.265735 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54913] PHP Warning:  Constant OVERVIEW_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 9, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant NAME_SITE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 4, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant HOME already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 5, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant PAGE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 6, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 7, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant HEADING_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 8, referer: http://localhost/index.php/
+[Mon Mar 07 12:16:18.656869 2022] [php:warn] [pid 16080:tid 1284] [client ::1:54921] PHP Warning:  Constant OVERVIEW_TITLE already defined in C:\\server\\Apache24\\htdocs\\pages\\es.php on line 9, referer: http://localhost/index.php/
+[Mon Mar 07 12:18:47.930563 2022] [mpm_winnt:notice] [pid 11088:tid 828] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 12:18:49.980558 2022] [mpm_winnt:notice] [pid 16080:tid 764] AH00364: Child: All worker threads have exited.
+[Mon Mar 07 12:18:50.614899 2022] [mpm_winnt:notice] [pid 11088:tid 828] AH00430: Parent: Child process 16080 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 15:15:18.114010 2022] [mpm_winnt:notice] [pid 15940:tid 820] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Mon Mar 07 15:15:18.114010 2022] [mpm_winnt:notice] [pid 15940:tid 820] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Mar 07 15:15:18.114010 2022] [core:notice] [pid 15940:tid 820] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Mon Mar 07 15:15:18.261414 2022] [mpm_winnt:notice] [pid 15940:tid 820] AH00418: Parent: Created child process 15984
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 15:15:19.109461 2022] [mpm_winnt:notice] [pid 15984:tid 760] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 07 16:12:00.980813 2022] [php:warn] [pid 15984:tid 1292] [client ::1:55120] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 8
+[Mon Mar 07 16:12:00.980813 2022] [php:warn] [pid 15984:tid 1292] [client ::1:55120] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 8
+[Mon Mar 07 16:14:02.400618 2022] [php:warn] [pid 15984:tid 1292] [client ::1:49507] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 8
+[Mon Mar 07 16:14:02.400618 2022] [php:warn] [pid 15984:tid 1292] [client ::1:49507] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 8
+[Mon Mar 07 16:14:29.587813 2022] [php:warn] [pid 15984:tid 1280] [client ::1:51288] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:14:29.587813 2022] [php:warn] [pid 15984:tid 1280] [client ::1:51288] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:14:44.584339 2022] [php:warn] [pid 15984:tid 1292] [client ::1:53309] PHP Warning:  include(/nav.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 16:14:44.584339 2022] [php:warn] [pid 15984:tid 1292] [client ::1:53309] PHP Warning:  include(): Failed opening '/nav.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 16:14:44.584339 2022] [php:warn] [pid 15984:tid 1292] [client ::1:53309] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:14:44.584339 2022] [php:warn] [pid 15984:tid 1292] [client ::1:53309] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:14:57.959153 2022] [php:warn] [pid 15984:tid 1292] [client ::1:60595] PHP Warning:  include(../nav.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 16:14:57.959153 2022] [php:warn] [pid 15984:tid 1292] [client ::1:60595] PHP Warning:  include(): Failed opening '../nav.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 16:14:57.960157 2022] [php:warn] [pid 15984:tid 1292] [client ::1:60595] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:14:57.960157 2022] [php:warn] [pid 15984:tid 1292] [client ::1:60595] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:15:41.984691 2022] [php:warn] [pid 15984:tid 1280] [client ::1:51141] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 16:15:41.984691 2022] [php:warn] [pid 15984:tid 1280] [client ::1:51141] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 17:45:51.621728 2022] [mpm_winnt:notice] [pid 15940:tid 820] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 17:45:53.909829 2022] [mpm_winnt:notice] [pid 15984:tid 760] AH00364: Child: All worker threads have exited.
+[Mon Mar 07 17:45:55.058392 2022] [mpm_winnt:notice] [pid 15940:tid 820] AH00430: Parent: Child process 15984 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 19:54:10.056296 2022] [mpm_winnt:notice] [pid 15420:tid 804] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Mon Mar 07 19:54:10.056296 2022] [mpm_winnt:notice] [pid 15420:tid 804] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Mar 07 19:54:10.056296 2022] [core:notice] [pid 15420:tid 804] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Mon Mar 07 19:54:10.201385 2022] [mpm_winnt:notice] [pid 15420:tid 804] AH00418: Parent: Created child process 15248
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Mon Mar 07 19:54:10.788621 2022] [mpm_winnt:notice] [pid 15248:tid 772] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 07 19:54:50.912388 2022] [php:warn] [pid 15248:tid 1272] [client ::1:56348] PHP Warning:  include(/nav.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:54:50.912388 2022] [php:warn] [pid 15248:tid 1272] [client ::1:56348] PHP Warning:  include(): Failed opening '/nav.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:54:50.913386 2022] [php:warn] [pid 15248:tid 1272] [client ::1:56348] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:54:50.913386 2022] [php:warn] [pid 15248:tid 1272] [client ::1:56348] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:55:45.771304 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(/nav.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:55:45.771304 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(): Failed opening '/nav.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:55:45.771304 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:55:45.771304 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:55:48.909394 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(/nav.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:55:48.909394 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(): Failed opening '/nav.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 1
+[Mon Mar 07 19:55:48.909394 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:55:48.909394 2022] [php:warn] [pid 15248:tid 1272] [client ::1:57849] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:57:03.884517 2022] [php:warn] [pid 15248:tid 1272] [client ::1:51580] PHP Warning:  include(c:/server/Apache24/htdoc/footer.php): Failed to open stream: No such file or directory in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:57:03.884517 2022] [php:warn] [pid 15248:tid 1272] [client ::1:51580] PHP Warning:  include(): Failed opening 'c:/server/Apache24/htdoc/footer.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\server\\Apache24\\htdocs\\index.php on line 6
+[Mon Mar 07 19:59:13.264492 2022] [mpm_winnt:notice] [pid 15420:tid 804] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 19:59:34.978120 2022] [mpm_winnt:notice] [pid 15248:tid 772] AH00364: Child: All worker threads have exited.
+[Mon Mar 07 19:59:35.149921 2022] [mpm_winnt:notice] [pid 15420:tid 804] AH00430: Parent: Child process 15248 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d147:b5ae:b5a3:1b95. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: ext\\mbstring (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_mbstring.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: ext\\openssl (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_openssl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 09 14:39:06.338397 2022] [mpm_winnt:notice] [pid 7160:tid 892] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 09 14:39:06.338397 2022] [mpm_winnt:notice] [pid 7160:tid 892] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 09 14:39:06.338397 2022] [core:notice] [pid 7160:tid 892] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 09 14:39:06.354021 2022] [mpm_winnt:notice] [pid 7160:tid 892] AH00418: Parent: Created child process 12352
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d147:b5ae:b5a3:1b95. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d147:b5ae:b5a3:1b95. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: ext\\mbstring (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_mbstring.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: ext\\openssl (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_openssl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: ext\\pdo_mysql (No se puede encontrar el m\xc3\xb3dulo especificado), ext\\php_pdo_mysql.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Wed Mar 09 14:39:08.713457 2022] [mpm_winnt:notice] [pid 12352:tid 808] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 09 16:02:41.497832 2022] [mpm_winnt:notice] [pid 7160:tid 892] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 09 16:02:43.529026 2022] [mpm_winnt:notice] [pid 12352:tid 808] AH00364: Child: All worker threads have exited.
+[Wed Mar 09 16:02:43.544667 2022] [mpm_winnt:notice] [pid 7160:tid 892] AH00430: Parent: Child process 12352 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 08:13:02.276597 2022] [mpm_winnt:notice] [pid 16508:tid 872] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 16 08:13:02.276597 2022] [mpm_winnt:notice] [pid 16508:tid 872] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 16 08:13:02.276597 2022] [core:notice] [pid 16508:tid 872] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 16 08:13:02.495294 2022] [mpm_winnt:notice] [pid 16508:tid 872] AH00418: Parent: Created child process 11204
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 08:13:03.370087 2022] [mpm_winnt:notice] [pid 11204:tid 796] AH00354: Child: Starting 64 worker threads.
+Starting the 'Apache2.4' service
+AH00377: The 'Apache2.4' service is already started!
+[Wed Mar 16 08:17:43.231362 2022] [mpm_winnt:notice] [pid 16508:tid 872] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 16 08:17:45.262250 2022] [mpm_winnt:notice] [pid 11204:tid 796] AH00364: Child: All worker threads have exited.
+[Wed Mar 16 08:17:47.027339 2022] [mpm_winnt:notice] [pid 16508:tid 872] AH00430: Parent: Child process 11204 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 08:18:01.029538 2022] [mpm_winnt:notice] [pid 9184:tid 844] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 16 08:18:01.029538 2022] [mpm_winnt:notice] [pid 9184:tid 844] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 16 08:18:01.029538 2022] [core:notice] [pid 9184:tid 844] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 16 08:18:01.810603 2022] [mpm_winnt:notice] [pid 9184:tid 844] AH00418: Parent: Created child process 6572
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 08:18:02.810342 2022] [mpm_winnt:notice] [pid 6572:tid 792] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 16 08:41:36.872895 2022] [mpm_winnt:notice] [pid 9184:tid 844] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 16 08:41:38.913401 2022] [mpm_winnt:notice] [pid 6572:tid 792] AH00364: Child: All worker threads have exited.
+[Wed Mar 16 08:41:56.202381 2022] [mpm_winnt:notice] [pid 9184:tid 844] AH00430: Parent: Child process 6572 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 09:04:36.796487 2022] [mpm_winnt:notice] [pid 23320:tid 808] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 16 09:04:36.796487 2022] [mpm_winnt:notice] [pid 23320:tid 808] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 16 09:04:36.796487 2022] [core:notice] [pid 23320:tid 808] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 16 09:04:36.928488 2022] [mpm_winnt:notice] [pid 23320:tid 808] AH00418: Parent: Created child process 21576
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 09:04:37.537065 2022] [mpm_winnt:notice] [pid 21576:tid 792] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 16 09:23:12.581573 2022] [mpm_winnt:notice] [pid 23320:tid 808] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 16 09:23:14.598223 2022] [mpm_winnt:notice] [pid 21576:tid 792] AH00364: Child: All worker threads have exited.
+[Wed Mar 16 09:23:15.821332 2022] [mpm_winnt:notice] [pid 23320:tid 808] AH00430: Parent: Child process 21576 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 09:23:26.389720 2022] [mpm_winnt:notice] [pid 18900:tid 832] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 16 09:23:26.389720 2022] [mpm_winnt:notice] [pid 18900:tid 832] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 16 09:23:26.389720 2022] [core:notice] [pid 18900:tid 832] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 16 09:23:31.394299 2022] [mpm_winnt:notice] [pid 18900:tid 832] AH00418: Parent: Created child process 14588
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 16 09:23:32.333388 2022] [mpm_winnt:notice] [pid 14588:tid 792] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 16 09:29:26.328725 2022] [mpm_winnt:notice] [pid 18900:tid 832] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 16 09:29:28.353985 2022] [mpm_winnt:notice] [pid 14588:tid 792] AH00364: Child: All worker threads have exited.
+[Wed Mar 16 09:29:28.493547 2022] [mpm_winnt:notice] [pid 18900:tid 832] AH00430: Parent: Child process 14588 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 09:06:35.622834 2022] [mpm_winnt:notice] [pid 19076:tid 824] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Mar 22 09:06:35.622834 2022] [mpm_winnt:notice] [pid 19076:tid 824] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 22 09:06:35.622834 2022] [core:notice] [pid 19076:tid 824] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 22 09:06:35.871426 2022] [mpm_winnt:notice] [pid 19076:tid 824] AH00418: Parent: Created child process 2704
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 09:06:37.134629 2022] [mpm_winnt:notice] [pid 2704:tid 552] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 22 19:48:10.780508 2022] [mpm_winnt:notice] [pid 19076:tid 824] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 19:48:13.067982 2022] [mpm_winnt:notice] [pid 2704:tid 552] AH00364: Child: All worker threads have exited.
+[Tue Mar 22 19:48:14.098844 2022] [mpm_winnt:notice] [pid 19076:tid 824] AH00430: Parent: Child process 2704 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 19:48:26.681286 2022] [mpm_winnt:notice] [pid 10956:tid 852] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Mar 22 19:48:26.681286 2022] [mpm_winnt:notice] [pid 10956:tid 852] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 22 19:48:26.681286 2022] [core:notice] [pid 10956:tid 852] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 22 19:48:26.712492 2022] [mpm_winnt:notice] [pid 10956:tid 852] AH00418: Parent: Created child process 2436
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 19:48:27.306911 2022] [mpm_winnt:notice] [pid 2436:tid 796] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 22 20:37:01.672404 2022] [mpm_winnt:notice] [pid 10956:tid 852] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 20:37:03.734415 2022] [mpm_winnt:notice] [pid 2436:tid 796] AH00364: Child: All worker threads have exited.
+[Tue Mar 22 20:37:04.249914 2022] [mpm_winnt:notice] [pid 10956:tid 852] AH00430: Parent: Child process 2436 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 20:40:15.168763 2022] [mpm_winnt:notice] [pid 20696:tid 840] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Mar 22 20:40:15.168763 2022] [mpm_winnt:notice] [pid 20696:tid 840] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Mar 22 20:40:15.168763 2022] [core:notice] [pid 20696:tid 840] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Mar 22 20:40:15.902947 2022] [mpm_winnt:notice] [pid 20696:tid 840] AH00418: Parent: Created child process 4228
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 22 20:40:16.605975 2022] [mpm_winnt:notice] [pid 4228:tid 784] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 23 23:22:53.041888 2022] [core:warn] [pid 2212:tid 580] AH00098: pid file C:/server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 23 23:23:10.596274 2022] [mpm_winnt:notice] [pid 2212:tid 580] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Wed Mar 23 23:23:10.596274 2022] [mpm_winnt:notice] [pid 2212:tid 580] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Wed Mar 23 23:23:10.596274 2022] [core:notice] [pid 2212:tid 580] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Wed Mar 23 23:23:10.658908 2022] [mpm_winnt:notice] [pid 2212:tid 580] AH00418: Parent: Created child process 6360
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 23 23:23:11.752281 2022] [mpm_winnt:notice] [pid 6360:tid 792] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 23 23:25:28.778964 2022] [mpm_winnt:notice] [pid 2212:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 23 23:25:30.806979 2022] [mpm_winnt:notice] [pid 6360:tid 792] AH00364: Child: All worker threads have exited.
+[Wed Mar 23 23:25:31.416212 2022] [mpm_winnt:notice] [pid 2212:tid 580] AH00430: Parent: Child process 6360 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 25 14:01:51.703532 2022] [mpm_winnt:notice] [pid 4444:tid 848] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Fri Mar 25 14:01:51.703532 2022] [mpm_winnt:notice] [pid 4444:tid 848] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Fri Mar 25 14:01:51.703532 2022] [core:notice] [pid 4444:tid 848] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Fri Mar 25 14:01:51.734763 2022] [mpm_winnt:notice] [pid 4444:tid 848] AH00418: Parent: Created child process 7016
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 25 14:01:52.608952 2022] [mpm_winnt:notice] [pid 7016:tid 796] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 05 19:02:32.399344 2022] [mpm_winnt:notice] [pid 4444:tid 848] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Apr 05 19:02:34.701109 2022] [mpm_winnt:notice] [pid 7016:tid 796] AH00364: Child: All worker threads have exited.
+[Tue Apr 05 19:02:37.710461 2022] [mpm_winnt:notice] [pid 4444:tid 848] AH00430: Parent: Child process 7016 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 05 19:02:54.945765 2022] [mpm_winnt:notice] [pid 10296:tid 816] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Apr 05 19:02:54.945765 2022] [mpm_winnt:notice] [pid 10296:tid 816] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Apr 05 19:02:54.945765 2022] [core:notice] [pid 10296:tid 816] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Apr 05 19:02:55.101986 2022] [mpm_winnt:notice] [pid 10296:tid 816] AH00418: Parent: Created child process 1120
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 05 19:02:55.731503 2022] [mpm_winnt:notice] [pid 1120:tid 792] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 05 19:22:25.407138 2022] [mpm_winnt:notice] [pid 10296:tid 816] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Apr 05 19:22:27.429914 2022] [mpm_winnt:notice] [pid 1120:tid 792] AH00364: Child: All worker threads have exited.
+[Tue Apr 05 19:22:27.977189 2022] [mpm_winnt:notice] [pid 10296:tid 816] AH00430: Parent: Child process 1120 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 05 19:22:33.819693 2022] [mpm_winnt:notice] [pid 11600:tid 848] AH00455: Apache/2.4.52 (Win64) PHP/8.1.3 configured -- resuming normal operations
+[Tue Apr 05 19:22:33.819693 2022] [mpm_winnt:notice] [pid 11600:tid 848] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Apr 05 19:22:33.819693 2022] [core:notice] [pid 11600:tid 848] AH00094: Command line: 'C:\\server\\Apache24\\bin\\httpd.exe -d C:/server/Apache24'
+[Tue Apr 05 19:22:33.986746 2022] [mpm_winnt:notice] [pid 11600:tid 848] AH00418: Parent: Created child process 1556
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7069:c95f:100:8af4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 05 19:22:34.634067 2022] [mpm_winnt:notice] [pid 1556:tid 788] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 05 19:31:37.793041 2022] [mpm_winnt:notice] [pid 11600:tid 848] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Apr 05 19:31:39.823825 2022] [mpm_winnt:notice] [pid 1556:tid 788] AH00364: Child: All worker threads have exited.
+[Tue Apr 05 19:31:39.933172 2022] [mpm_winnt:notice] [pid 11600:tid 848] AH00430: Parent: Child process 1556 exited successfully.
